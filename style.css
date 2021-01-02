@@ -95,7 +95,7 @@ span
 
 .editButton
 {
-    padding: 10px 12px;
+    padding: 10px 14px;
     border: none;
     outline: none;
     background-color: hotpink;
@@ -109,7 +109,7 @@ span
 
 .deleteButton
 {
-    padding: 10px 12px;
+    padding: 10px 15px;
     border: none;
     outline: none;
     background-color: hotpink;
